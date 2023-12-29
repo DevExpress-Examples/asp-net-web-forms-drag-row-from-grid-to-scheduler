@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # ASP.NET Web Forms - How to drag a row from ASPxGridView to ASPxScheduler
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128546578/)**
-<!-- run online end -->
 
 This example demonstrates how to create an appointment in [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) based on a row dragged from [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView).
 
